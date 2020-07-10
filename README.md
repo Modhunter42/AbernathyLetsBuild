@@ -1,4 +1,8 @@
 # AbernathyLetsBuild
+EDIT: Added Differential files (made from Slightly different log files), no profiles.
+I suspect this is easier (at least for the sniper nest that had power line edits in the log file with it)
+
+
 
 1st Edit that replaces the bridge with the Nav-meshed version.
 Works great. Settlers use it by themselves.
